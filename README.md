@@ -33,7 +33,7 @@ Procedure:
 
 3. Activate the environment: `source activate iter-rec`.
 
-4. `git clone git@github.com:arcaduf/gridding_method_min_oversampl.git`.
+4. `git clone git@github.com:arcaduf/gridding_method_minimal_oversampling.git`.
  
 5. Install routines in C: `python setup.py`.
 
