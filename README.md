@@ -50,3 +50,5 @@ status, right after the download.
 ##  Test the package
 Go inside the folder "scripts/" and run: `python run_all_tests.py`
 
+When a plot is produced during the execution of a test, the script is halted until
+the plot window is manually closed.
